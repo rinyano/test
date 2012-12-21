@@ -1,2 +1,7 @@
 this is my git test.
-this is ‚â‚Ì git test.
+this is ‚â‚Ì git testtttttt.:
+:q!
+
+:wq!
+
+uuuuuuuryyyyyyyyyyyyyyyyyy
